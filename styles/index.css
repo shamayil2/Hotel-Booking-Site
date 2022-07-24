@@ -1,14 +1,24 @@
 img {
-    height: 200px;
+    height: 150px;
     width: 150px;
 }
 
 .city {
-    height: 300px;
-    width: 300px;
+    height: 150px;
+    width: 150px;
 }
 
 .link {
     height: 20px;
     width: 22px;
+}
+
+.logo {
+    height: 60px;
+    width: 60px;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
 }

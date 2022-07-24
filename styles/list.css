@@ -4,11 +4,16 @@ img {
 }
 
 .hotel {
-    height: 600px;
-    width: 600px;
+    height: 150px;
+    width: 150px;
 }
 
 .link {
     height: 20px;
     width: 22px;
+}
+
+.logo {
+    height: 60px;
+    width: 60px;
 }
