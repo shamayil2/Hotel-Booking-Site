@@ -17,3 +17,26 @@ img {
     height: 60px;
     width: 60px;
 }
+
+.header {
+    background-color: rosybrown;
+}
+
+.footer {
+    background-color: rosybrown;
+}
+
+body {
+    background-color: #e0e0e0;
+}
+
+.hotel {
+    background-color: rgb(132, 136, 139);
+    height: 300px;
+    width: 300px;
+}
+
+.hotell {
+    width: 600px;
+    background-color: rgb(132, 136, 139);
+}

@@ -22,3 +22,26 @@ img {
     height: 100%;
     width: 100%;
 }
+
+body {
+    background-color: #e0e0e0;
+}
+
+.header {
+    background-color: rosybrown;
+}
+
+.footer {
+    background-color: rosybrown;
+}
+
+.pic {
+    height: 400px;
+    width: 100%;
+}
+
+.city {
+    margin-left: 170px;
+    border-radius: 25%;
+    margin-bottom: 50px;
+}

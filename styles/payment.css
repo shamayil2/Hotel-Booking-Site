@@ -4,11 +4,39 @@ img {
 }
 
 .hotel {
-    width: 600px;
-    height: 600px;
+    width: 400px;
+    height: 400px;
 }
 
 .link {
     height: 20px;
     width: 22px;
+}
+
+.header {
+    background-color: rosybrown;
+}
+
+.footer {
+    background-color: rosybrown;
+}
+
+body {
+    background-color: #e0e0e0;
+}
+
+.content {
+    width: 600px;
+    height: 650px;
+    background-color: rgb(132, 136, 139);
+    margin-bottom: 20px;
+    margin: 20px auto;
+}
+
+.about {
+    padding: 20px;
+    border: 5px solid black;
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 5%;
 }
