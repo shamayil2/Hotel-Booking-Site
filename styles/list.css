@@ -11,6 +11,11 @@ img {
 .link {
     height: 20px;
     width: 22px;
+    margin-top: 50px;
+}
+
+.list {
+    margin-top: 50px;
 }
 
 .logo {
@@ -20,23 +25,82 @@ img {
 
 .header {
     background-color: rosybrown;
+    position: fixed;
+    width: 100%;
+    height: 80px;
+    top: 0px;
 }
 
 .footer {
     background-color: rosybrown;
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    bottom: 0px;
 }
 
 body {
     background-color: #e0e0e0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.hotel1 {
+    height: 600px;
+    width: 600px;
+    background-color: rgb(132, 136, 139);
+    margin-top: 50px;
+    margin-right: 50px;
 }
 
 .hotel {
-    background-color: rgb(132, 136, 139);
     height: 300px;
     width: 300px;
 }
 
-.hotell {
+.hotel2 {
+    height: 600px;
     width: 600px;
     background-color: rgb(132, 136, 139);
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.hotel3 {
+    height: 600px;
+    width: 600px;
+    background-color: rgb(132, 136, 139);
+    margin-top: 50px;
+}
+
+
+/* .hotel4 {
+    height: 600px;
+    width: 600px;
+    background-color: rgb(132, 136, 139);
+    margin: 50px 0px;
+} */
+
+.flexx {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.flex1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.link {
+    float: right;
+    position: relative;
+    bottom: 50px;
+    right: 20px;
+}
+
+.logg {
+    float: right;
+    position: relative;
+    right: 50px;
 }

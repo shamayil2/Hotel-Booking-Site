@@ -11,26 +11,38 @@ img {
 .link {
     height: 20px;
     width: 22px;
+    float: right;
+    margin-right: 20px;
 }
 
 .header {
     background-color: rosybrown;
+    height: 150px;
+    position: fixed;
+    width: 100%;
+    top: 0px;
 }
 
 .footer {
     background-color: rosybrown;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
 }
 
 body {
     background-color: #e0e0e0;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .content {
+    margin-top: 200px;
     width: 600px;
     height: 650px;
     background-color: rgb(132, 136, 139);
     margin-bottom: 20px;
-    margin: 20px auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .about {
@@ -39,4 +51,19 @@ body {
     margin-bottom: 20px;
     text-align: center;
     border-radius: 5%;
+    margin-bottom: 200px;
+}
+
+.logg {
+    float: right;
+    margin-right: 20px;
+}
+
+.logo {
+    height: 150px;
+    width: 122px;
+}
+
+.bott {
+    text-align: center;
 }

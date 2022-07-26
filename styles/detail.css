@@ -15,22 +15,38 @@
 
 .header {
     background-color: rosybrown;
+    position: fixed;
+    width: 100%;
+    top: 0px;
 }
 
 .footer {
     background-color: rosybrown;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
 }
 
 .content {
     margin-left: 30px;
-    margin-top: 20px;
+    margin-top: 100px;
 }
 
 body {
     background-color: #e0e0e0;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 form {
     margin-top: 30px;
     margin-bottom: 30px;
+}
+
+.disc {
+    text-align: center;
+}
+
+.link {
+    float: right;
+    margin-right: 50px;
 }
