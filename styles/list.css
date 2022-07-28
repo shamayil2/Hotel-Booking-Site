@@ -45,9 +45,9 @@ body {
 }
 
 .hotel1 {
-    height: 600px;
-    width: 600px;
-    background-color: rgb(132, 136, 139);
+    height: 400px;
+    width: 500px;
+    background-color: lightgray;
     margin-top: 50px;
     margin-right: 50px;
 }
@@ -58,17 +58,17 @@ body {
 }
 
 .hotel2 {
-    height: 600px;
-    width: 600px;
-    background-color: rgb(132, 136, 139);
+    height: 400px;
+    width: 500px;
+    background-color: lightgrey;
     margin-left: 50px;
     margin-top: 50px;
 }
 
 .hotel3 {
-    height: 600px;
-    width: 600px;
-    background-color: rgb(132, 136, 139);
+    height: 400px;
+    width: 500px;
+    background-color: lightgrey;
     margin-top: 50px;
 }
 

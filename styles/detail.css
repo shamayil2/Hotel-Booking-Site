@@ -50,3 +50,12 @@ form {
     float: right;
     margin-right: 50px;
 }
+
+table {
+    border: 5px solid black;
+    width: 100%;
+}
+
+label {
+    margin-top: 50px;
+}
